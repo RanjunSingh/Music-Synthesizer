@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+   <instrument instrument="ToneInstrument">
+      <note measure="1" beat="1" count="1.9" note="C4"/>
+      <note measure="1" beat="3" count="1.9" note="G4"/>
+      <note measure="2" beat="1" count="3.7" note="C5"/>  
+   </instrument>
+
+   <instrument instrument="ToneInstrument">
+      <note measure="1" beat="1" count="1.9" note="C3"/>
+      <note measure="1" beat="3" count="1.9" note="G3"/>
+      <note measure="2" beat="1" count="3.7" note="C2"/>  
+   </instrument>
+</score>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="4">
+   <instrument instrument="Piano">
+      <note measure="1" beat="1" count="2.9" note="C4s.wav"/>
+      <note measure="1" beat="3" count="2.9" note="G4s.wav"/>
+      <note measure="2" beat="1" count="3.7" note="C5s.wav"/>  
+      <note measure="2" beat="4.75" count="0.45" note="C4s.wav"/>
+      <note measure="2" beat="4.75" count="0.45" note="E4s.wav"/>
+      <note measure="2" beat="4.75" count="0.45" note="G4s.wav"/>
+      <note measure="3" beat="1.25" count="4.75" note="C4s.wav"/>
+      <note measure="3" beat="1.25" count="4.75" note="D4#s.wav"/>
+      <note measure="3" beat="1.25" count="4.75" note="G4s.wav"/>
+   </instrument>
+</score>

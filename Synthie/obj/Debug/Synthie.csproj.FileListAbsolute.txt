@@ -1,0 +1,13 @@
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\bin\Debug\Synthie.exe.config
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\bin\Debug\Synthie.exe
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\bin\Debug\Synthie.pdb
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\bin\Debug\NAudio.xml
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.csprojAssemblyReference.cache
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.MainForm.resources
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.ProgressBar.resources
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.Properties.Resources.resources
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.csproj.GenerateResource.cache
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.csproj.CoreCompileInputs.cache
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.csproj.CopyComplete
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.exe
+C:\Users\7438978\Desktop\Spring 2021\Multimedia\Project 2\Synthie\obj\Debug\Synthie.pdb

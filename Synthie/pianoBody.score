@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="180" beatspermeasure="8">
+   <instrument instrument="Piano">
+
+       <measure number="1"/>
+      <note beat="1" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="2" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="3" count="1.5" note="F5s.wav" dynamic="f"/>  
+      <note beat="4" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="5" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="6" count="1.5" note="F5s.wav" dynamic="f"/>  
+      <note beat="7" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="8" count="2.5" note="G5s.wav" dynamic="f"/>
+
+      <measure number="1"/>
+      <note beat="1" count="3.5" note="D2#s.wav" dynamic="mf"/>
+      <note beat="2" count="2.5" note="A3#s.wav" dynamic="mf"/>
+      <note beat="3" count="2.5" note="D3#s.wav" dynamic="mf"/> 
+      <note beat="4" count="2.5" note="A3#s.wav" dynamic="mf"/>
+      <note beat="5" count="2.5" note="D2#s.wav" dynamic="mf"/>
+      <note beat="6" count="2.5" note="A3#s.wav" dynamic="mf"/> 
+      <note beat="7" count="2.5" note="D3#s.wav" dynamic="mf"/>
+      <note beat="8" count="2.5" note="A3#s.wav" dynamic="mf"/> 
+
+
+
+      <measure number="2"/>
+      <note beat="1" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="2" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="3" count="1.5" note="D5#s.wav" dynamic="f"/>  
+      <note beat="4" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="5" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="6" count="1.5" note="D5#s.wav" dynamic="f"/>  
+      <note beat="7" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="8" count="2.5" note="G5s.wav" dynamic="f"/>
+
+      <measure number="2"/>
+      <note beat="1" count="3.5" note="C2s.wav" dynamic="f"/>
+      <note beat="2" count="2.5" note="G2s.wav" dynamic="f"/>
+      <note beat="3" count="2.5" note="C3s.wav" dynamic="f"/> 
+      <note beat="4" count="2.5" note="G2s.wav" dynamic="f"/>
+      <note beat="5" count="2.5" note="C2s.wav" dynamic="f"/>
+      <note beat="6" count="2.5" note="G2s.wav" dynamic="f"/> 
+      <note beat="7" count="2.5" note="C3s.wav" dynamic="f"/>
+      <note beat="8" count="2.5" note="G2s.wav" dynamic="f"/>
+
+
+      <measure number="3"/>
+      <note beat="2" count="1.5" note="A4s.wav" />
+      <note beat="3" count="1.5" note="A4#s.wav"/>  
+      <note beat="4" count="2.5" note="F5s.wav" />
+      <note beat="6" count="2.5" note="A4s.wav"/>  
+      <note beat="8" count="1.5" note="A4#s.wav" />
+
+      <measure number="3"/>
+      <note beat="1" count="3.5" note="G2s.wav" dynamic="mf"/>
+      <note beat="2" count="2.5" note="D2s.wav" dynamic="mf"/>
+      <note beat="3" count="2.5" note="G3s.wav" dynamic="mf"/> 
+      <note beat="4" count="2.5" note="D2s.wav" dynamic="mf"/>
+      <note beat="5" count="2.5" note="G2s.wav" dynamic="mf"/>
+      <note beat="6" count="2.5" note="D2s.wav" dynamic="mf"/> 
+      <note beat="7" count="2.5" note="G3s.wav" dynamic="mf"/>
+      <note beat="8" count="2.5" note="D2s.wav" dynamic="mf"/>
+
+
+      <measure number="4"/>
+      <note beat="2" count="1.5" note="A4s.wav" dynamic="mf" />
+      <note beat="3" count="1.5" note="A4#s.wav" dynamic="mf"/>  
+      <note beat="4" count="1.5" note="D5s.wav" dynamic="f"/>
+      <note beat="5" count="1.5" note="A5s.wav" dynamic="ff"/>
+      <note beat="6" count="1.5" note="A5#s.wav" dynamic="ff"/>  
+      <note beat="7" count="1.5" note="F5s.wav" dynamic="ff"/>
+      <note beat="8" count="2.5" note="D5s.wav" dynamic="ff"/>
+
+      <measure number="4"/>
+      <note beat="1" count="3.5" note="A2#s.wav" pedal="down"/>
+      <note beat="2" count="2.5" note="F3s.wav"  dynamic="mf"/>
+      <note beat="3" count="2.5" note="A3#s.wav" dynamic="mf"/>
+      <note beat="4" count="3.5" note="F2s.wav" dynamic="mf" />
+      <note beat="5" count="2.5" note="A2#s.wav"  dynamic="mf"/>
+      <note beat="6" count="2.5" note="F3s.wav" dynamic="mf"/>
+      <note beat="7" count="2.5" note="A3#s.wav" dynamic="mf"/>
+
+      <measure number="5"/>
+      <note beat="1" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="2" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="3" count="1.5" note="F5s.wav" dynamic="f"/>  
+      <note beat="4" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="5" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="6" count="1.5" note="F5s.wav" dynamic="f"/>  
+      <note beat="7" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="8" count="2.5" note="G5s.wav" dynamic="f"/>
+
+      <measure number="5"/>
+      <note beat="1" count="3.5" note="D2#s.wav" dynamic="mf"/>
+      <note beat="2" count="2.5" note="A3#s.wav" dynamic="mf"/>
+      <note beat="3" count="2.5" note="D3#s.wav" dynamic="mf"/> 
+      <note beat="4" count="2.5" note="A3#s.wav" dynamic="mf"/>
+      <note beat="5" count="2.5" note="D2#s.wav" dynamic="mf"/>
+      <note beat="6" count="2.5" note="A3#s.wav" dynamic="mf"/> 
+      <note beat="7" count="2.5" note="D3#s.wav" dynamic="mf"/>
+      <note beat="8" count="2.5" note="A3#s.wav" dynamic="mf"/> 
+
+      <measure number="6"/>
+      <note beat="1" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="2" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="3" count="1.5" note="D5#s.wav" dynamic="f"/>  
+      <note beat="4" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="5" count="1.5" note="G5s.wav" dynamic="f"/>
+      <note beat="6" count="1.5" note="D5#s.wav" dynamic="f"/>  
+      <note beat="7" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="8" count="2.5" note="G5s.wav" dynamic="f"/>
+
+      <measure number="6"/>
+      <note beat="1" count="3.5" note="C2s.wav" dynamic="f"/>
+      <note beat="2" count="2.5" note="G2s.wav" dynamic="f"/>
+      <note beat="3" count="2.5" note="C3s.wav" dynamic="f"/> 
+      <note beat="4" count="2.5" note="G2s.wav" dynamic="f"/>
+      <note beat="5" count="2.5" note="C2s.wav" dynamic="f"/>
+      <note beat="6" count="2.5" note="G2s.wav" dynamic="f"/> 
+      <note beat="7" count="2.5" note="C3s.wav" dynamic="f"/>
+      <note beat="8" count="2.5" note="G2s.wav" dynamic="f"/>
+
+
+      <measure number="7"/>
+      <note beat="2" count="1.5" note="A5s.wav" />
+      <note beat="3" count="1.5" note="A5#s.wav"/>  
+      <note beat="4" count="1.5" note="G6s.wav"/>
+      <note beat="5" count="2.5" note="F6s.wav" />
+      <note beat="8" count="2.5" note="A5#s.wav"/>  
+
+      <measure number="7"/>
+      <note beat="1" count="3.5" note="G2s.wav" dynamic="mf"/>
+      <note beat="2" count="2.5" note="D2s.wav" dynamic="mf"/>
+      <note beat="3" count="2.5" note="G3s.wav" dynamic="mf"/> 
+      <note beat="4" count="2.5" note="D2s.wav" dynamic="mf"/>
+      <note beat="5" count="2.5" note="G2s.wav" dynamic="mf"/>
+      <note beat="6" count="2.5" note="D2s.wav" dynamic="mf"/> 
+      <note beat="7" count="2.5" note="G3s.wav" dynamic="mf"/>
+      <note beat="8" count="2.5" note="D2s.wav" dynamic="mf"/>
+
+
+      <measure number="8"/>
+      <note beat="2" count="1.5" note="A5s.wav" dynamic="mf" />
+      <note beat="3" count="1.5" note="A5#s.wav" dynamic="mf"/>  
+      <note beat="4" count="1.5" note="D6s.wav" dynamic="f"/>
+      <note beat="5" count="1.5" note="A6s.wav" dynamic="ff"/>
+      <note beat="6" count="1.5" note="A6#s.wav" dynamic="ff"/>  
+      <note beat="7" count="1.5" note="F6s.wav" dynamic="ff"/>
+      <note beat="8" count="2.5" note="D6s.wav" dynamic="ff"/>
+
+      <measure number="8"/>
+      <note beat="1" count="3.5" note="A2#s.wav" pedal="down"/>
+      <note beat="2" count="2.5" note="F3s.wav"  dynamic="mf"/>
+      <note beat="3" count="2.5" note="A3#s.wav" dynamic="mf"/>
+      <note beat="4" count="3.5" note="F2s.wav" dynamic="mf" />
+      <note beat="5" count="2.5" note="A2#s.wav"  dynamic="mf"/>
+      <note beat="6" count="2.5" note="F3s.wav" dynamic="mf"/>
+      <note beat="7" count="2.5" note="A3#s.wav" dynamic="mf"/>
+//finish
+      <measure number="9"/>
+      <note beat="1" count="1.5" note="D4s.wav" dynamic="mp" />
+      <note beat="2" count="1.5" note="G3s.wav" dynamic="mp"/>
+      <note beat="3" count="1.5" note="F3s.wav" dynamic="mp"/>  
+      <note beat="4" count="1.5" note="D4s.wav" dynamic="mp"/>
+      <note beat="5" count="1.5" note="G3s.wav" dynamic="mp"/>
+      <note beat="6" count="1.5" note="F3s.wav" dynamic="mp"/>  
+      <note beat="7" count="1.5" note="D4s.wav" dynamic="mp"/>
+      <note beat="8" count="2.5" note="G3s.wav" dynamic="mp"/>
+
+      <note beat="1" count="2.5" note="D2#s.wav" pedal="down" dynamic="mp"/>
+      <note beat="2" count="2.5" note="A2#s.wav" pedal="down" dynamic="mp"/>
+      <note beat="3" count="2.5" note="D3s.wav" pedal="down" dynamic="mp"/> 
+
+//measure2
+
+      <measure number="10"/>
+      <note beat="1" count="1.5" note="D4s.wav" dynamic="mf"/>
+      <note beat="2" count="1.5" note="G3s.wav" dynamic="mf"/>
+      <note beat="3" count="1.5" note="D3#s.wav" dynamic="mf"/>  
+      <note beat="4" count="1.5" note="D4s.wav" dynamic="mf"/>
+      <note beat="5" count="1.5" note="G3s.wav" dynamic="mf"/>
+      <note beat="6" count="1.5" note="D3#s.wav" dynamic="mf"/>  
+      <note beat="7" count="1.5" note="D4s.wav" dynamic="mf"/>
+      <note beat="8" count="2.5" note="G3s.wav" dynamic="mf"/>
+
+      <note beat="1" count="2.5" pedal="down" note="C2s.wav" dynamic="mf"/>
+      <note beat="2" count="2.5" note="G2s.wav" pedal="down" dynamic="mf"/>
+      <note beat="3" count="3.5" note="C3s.wav" pedal="down" dynamic="mf"/> 
+
+
+      <measure number="11"/>
+      <note beat="2" count="1.5" note="A3s.wav" />
+      <note beat="3" count="1.5" note="A3#s.wav"/>  
+      <note beat="4" count="2.5" note="F4s.wav" />
+      <note beat="6" count="2.5" note="A3s.wav"/>  
+      <note beat="8" count="1.5" note="A3#s.wav" />
+	
+      <measure number="11"/>
+      <note beat="1" count="2.5" note="G2s.wav" pedal="down"/>
+      <note beat="2" count="2.5" note="D3s.wav" pedal="down"/>
+      <note beat="3" count="2.5" note="G3s.wav" pedal="down"/> 
+
+
+      <measure number="12"/>
+      <note beat="2" count="1.5" note="F4s.wav" dynamic="mp"/>
+      <note beat="3" count="1.5" note="G4s.wav" dynamic="mp"/>  
+      <note beat="4" count="2.5" note="A4#s.wav" pedal="down" dynamic="p"/>
+      <note beat="4" count="2.5" note="D5s.wav" pedal="down" dynamic="p"/>
+	
+      <note beat="1" count="2.5" note="D3#s.wav" pedal="down" dynamic="mf"/>
+      <note beat="2" count="2.5" note="A3#s.wav" pedal="down" dynamic="mp"/>
+      <note beat="3" count="2.5" note="D4#s.wav" pedal="down" dynamic="p"/> 
+
+   </instrument>
+</score>
